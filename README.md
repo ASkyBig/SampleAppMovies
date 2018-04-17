@@ -1,4 +1,4 @@
-# SampleAppMovies
+## SampleAppMovies
 ---
 #### react-natvie0.51的 [电影列表demo](https://reactnative.cn/docs/0.51/sample-application-movies.html)
 #### 启动命令：react-native run-ios
